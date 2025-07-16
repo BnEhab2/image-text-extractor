@@ -16,8 +16,7 @@ This project automates the process of extracting text from images using **Google
 - `msedgedriver.exe` (or chromedriver)
 - Images folder with `.jpg`, `.png`, or `.jpeg` files
 - Folder that has images
-- ب
-
+  
 ## 📥 Installation
 
 ```bash
